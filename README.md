@@ -8,7 +8,7 @@ Exploring Tableau using Global SuperStore dataset.
 
 ## Built With
 
-* [TABLEAU](https://www.tableau.com/products/desktop) - Cloud service used
+* [TABLEAU](https://www.tableau.com/products/desktop) 
 
 
 ## Authors
